@@ -1,7 +1,8 @@
 # 10 additional Linux commands
 
 1. cat file1 file2 > file3 : joins two files (file1,file2) and stores the output in a new file (file3)
-![Example 1](C:\Users\pc\Desktop\Exercise_2-images\Example_1)
+
+<img src="C:\Users\pc\Desktop\Exercise_2-images\Example_1.JPG" alt="Example_1">
 
 2. rm filename : deletes a file
 
