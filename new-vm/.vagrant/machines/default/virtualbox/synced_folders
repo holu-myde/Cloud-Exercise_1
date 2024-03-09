@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/pc/Desktop/Fix_vmssh/new-vm","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/home/vagrant/Bash_script_exercises":{"guestpath":"/home/vagrant/Bash_script_exercises","hostpath":"C:/Users/pc/Desktop/Fix_vmssh/Bash_script_exercises","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/pc/Desktop/Fix_vmssh/new-vm","disabled":false,"__vagrantfile":true}}}
